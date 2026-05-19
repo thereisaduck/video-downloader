@@ -259,4 +259,4 @@ A: Indirectly via environment variables. You can modify `build_ydl_opts()` in `u
 
 **Version**: 2.1.0  
 **Last updated**: 2026-05-19  
-**Maintainer**: Multi-Platform Downloader Team
+**Maintainer**: thereisaduck
