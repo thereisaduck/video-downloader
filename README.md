@@ -1,6 +1,7 @@
 # Multi-Platform Social Media Downloader v2.1
 
 A modular video/media downloader supporting YouTube, Twitter/X, TikTok, Instagram, and Threads.
+# Currently Instagrams and threads unsupported!
 
 ## Features
 
